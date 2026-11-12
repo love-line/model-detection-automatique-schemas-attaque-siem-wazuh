@@ -1,0 +1,25 @@
+{
+  "seuil_recommande": -4.848831474234897,
+  "methode": "percentile_5_attaques",
+  "scores_attaques": {
+    "moyenne": -3.674033509909927,
+    "ecart_type": 0.6491738282640233,
+    "min": -5.6505753319229965,
+    "max": -2.501364691957569
+  },
+  "scores_bruit": {
+    "moyenne": -7.141628073585997,
+    "ecart_type": 0.6909399224379188,
+    "min": -8.481790545604525,
+    "max": -5.056268829222923
+  },
+  "evaluation": {
+    "vrais_positifs": 127,
+    "faux_negatifs": 7,
+    "faux_positifs": 0,
+    "vrais_negatifs": 100,
+    "precision": 1.0,
+    "rappel": 0.9477611940298507,
+    "f1": 0.9731800766283525
+  }
+}

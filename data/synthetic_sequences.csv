@@ -1,0 +1,31 @@
+scenario_id,title,sequence,sequence_length
+synthetic_1,Sequence synthetique 1,"['T1059.005', 'T1546.003', 'T1112', 'T1003.003', 'T1123']",5
+synthetic_2,Sequence synthetique 2,"['T1505.003', 'T1543.003', 'T1134.002', 'T1218', 'T1003.003', 'T1123']",6
+synthetic_3,Sequence synthetique 3,"['T1055', 'T1087.001', 'T1021.002']",3
+synthetic_4,Sequence synthetique 4,"['T1053.005', 'T1053.005', 'T1003.001', 'T1069.002', 'T1021.002']",5
+synthetic_5,Sequence synthetique 5,"['T1047', 'T1112', 'T1003.002', 'T1069.002']",4
+synthetic_6,Sequence synthetique 6,"['T1505.003', 'T1055.003']",2
+synthetic_7,Sequence synthetique 7,"['T1505.003', 'T1134.002', 'T1003.003', 'T1069.001', 'T1056.002']",5
+synthetic_8,Sequence synthetique 8,"['T1059', 'T1037.001', 'T1112', 'T1003.001', 'T1087.001']",5
+synthetic_9,Sequence synthetique 9,"['T1021.003', 'T1055.002', 'T1222.001', 'T1003.004', 'T1135', 'T1053.005', 'T1123']",7
+synthetic_10,Sequence synthetique 10,"['T1218.003', 'T1003.002', 'T1087.001', 'T1021.002', 'T1123']",5
+synthetic_11,Sequence synthetique 11,"['T1197', 'T1055', 'T1218', 'T1003.004', 'T1069.001']",5
+synthetic_12,Sequence synthetique 12,"['T1021.003', 'T1546.003', 'T1112', 'T1135', 'T1056.002']",5
+synthetic_13,Sequence synthetique 13,"['T1505.003', 'T1505.003', 'T1003.003', 'T1021.006']",4
+synthetic_14,Sequence synthetique 14,"['T1055.001', 'T1222.001', 'T1069.002']",3
+synthetic_15,Sequence synthetique 15,"['T1547.001', 'T1055.001', 'T1562.002', 'T1069.002']",4
+synthetic_16,Sequence synthetique 16,"['T1059', 'T1505.003', 'T1055.001', 'T1087.001']",4
+synthetic_17,Sequence synthetique 17,"['T1059', 'T1134.001', 'T1562.002', 'T1110.003', 'T1021.003', 'T1123']",6
+synthetic_18,Sequence synthetique 18,"['T1047', 'T1055.001', 'T1055.003', 'T1056.002']",4
+synthetic_19,Sequence synthetique 19,"['T1505.003', 'T1055', 'T1562.002', 'T1021.003', 'T1123']",5
+synthetic_20,Sequence synthetique 20,"['T1021', 'T1134.001', 'T1055.003', 'T1003.001', 'T1087.001', 'T1021.003', 'T1056.002']",7
+synthetic_21,Sequence synthetique 21,"['T1546.003', 'T1574.001', 'T1134.001', 'T1558.003', 'T1069.001', 'T1123']",6
+synthetic_22,Sequence synthetique 22,"['T1055.002', 'T1003.001', 'T1021.003', 'T1123']",4
+synthetic_23,Sequence synthetique 23,"['T1053.005', 'T1546.003', 'T1055', 'T1135', 'T1047', 'T1123']",6
+synthetic_24,Sequence synthetique 24,"['T1505.003', 'T1055.003', 'T1110.003']",3
+synthetic_25,Sequence synthetique 25,"['T1547.001', 'T1548.002', 'T1055.003', 'T1069.001']",4
+synthetic_26,Sequence synthetique 26,"['T1574.001', 'T1055', 'T1222.001', 'T1087.002', 'T1021.002', 'T1123']",6
+synthetic_27,Sequence synthetique 27,"['T1021', 'T1134.002', 'T1574.001', 'T1003.002', 'T1087.001', 'T1056.002']",6
+synthetic_28,Sequence synthetique 28,"['T1047', 'T1546.003', 'T1134.002', 'T1134.001', 'T1049', 'T1047', 'T1123']",7
+synthetic_29,Sequence synthetique 29,"['T1053.005', 'T1003.002', 'T1518', 'T1123']",4
+synthetic_30,Sequence synthetique 30,"['T1037.001', 'T1218.005', 'T1135']",3

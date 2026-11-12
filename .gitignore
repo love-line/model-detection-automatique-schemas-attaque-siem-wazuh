@@ -1,0 +1,36 @@
+# Environnement virtuel
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers sensibles
+.env
+*.key
+*.pem
+
+# Logs
+*.log
+
+# Bases de données locales
+*.sqlite
+*.db
+
+# Données réelles de l'environnement (ne pas publier)
+data/alerts.json
+data/alerts_extracted.csv
+data/all_sequences_backup_avant_nettoyage.csv
+data/detections_wazuh.log
+data/all_sequences.csv
+data/detections.json
+data/detections_enrichies.json
+
+# Système
+.DS_Store
+Thumbs.db
+
+
