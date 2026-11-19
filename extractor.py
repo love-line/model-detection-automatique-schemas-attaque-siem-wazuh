@@ -1,7 +1,9 @@
 import json
 import pandas as pd
 
+# À remplacer par le chemin réel de vos alertes Wazuh
 ALERTS_FILE = "/var/ossec/logs/chemin ou sont stoques les alertes wazuh"
+# À remplacer par le chemin de sortie souhaité
 OUTPUT_FILE = "/home/le chemin vers le fichier.cvs ou les alertes extraitent seront stoques"
 
 events = []
