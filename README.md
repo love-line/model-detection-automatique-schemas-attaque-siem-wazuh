@@ -1,6 +1,6 @@
-<p align="center"> 
+
   # MISE EN PLACE D'UN SYSTEME INTELLIGENT DE DETECTION AUTOMATIQUE DES CHAINES D'ATTAQUE DANS UN SIEM 
-  </p>
+
 
 <p align="center">
   <strong>Détecter les événements. Reconnaître les enchaînements. Comprendre les attaques.</strong>
